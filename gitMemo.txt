@@ -7,8 +7,8 @@ github简单使用教程
 cmd
 cd \t_git
 cd \newP
-git config -- global user.name ‘tianyunchuan’
-git config -- global user.email ‘tianyunchuan@cn.macromill.com’
+git config -- global user.name ‘tian’
+git config -- global user.email ‘522506357@qq.com’
 git config –l
 git init
 git remote add origin https://github.com/tianyunchuan/all.git
