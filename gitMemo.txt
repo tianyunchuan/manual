@@ -1,0 +1,23 @@
+﻿https://github.com/tianyunchuan/upTest.git
+
+
+
+http://v.youku.com/v_show/id_XMzMwNzcwODE0OA==.html
+github简单使用教程
+cmd
+cd \t_git
+cd \newP
+git config -- global user.name ‘tianyunchuan’
+git config -- global user.email ‘tianyunchuan@cn.macromill.com’
+git config –l
+git init
+git remote add origin https://github.com/tianyunchuan/all.git
+
+git status
+git add *
+git commit –m ‘firstT’
+git push –u origin master
+
+
+
+
